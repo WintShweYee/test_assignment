@@ -31,7 +31,7 @@ npm start
 The application is accessible on ``http://localhost:3030``
 
 # frontend-server
-This application is running on port ``5173``.
+This application is running on port ``3000``.
  
 ### Requirements
 For building and running the application you need:
@@ -54,4 +54,4 @@ You can run the following command from the terminal.
 ```shell
 npm run start
 ```
-
+The application is accessible on ``http://localhost:3000``
